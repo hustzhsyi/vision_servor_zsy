@@ -1,0 +1,8 @@
+prefix=/home/zhsyi/vision_servo_zsy/devel
+
+Name: v_s
+Description: Description of v_s
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/zhsyi/vision_servo_zsy/devel/lib 
+Requires: 
