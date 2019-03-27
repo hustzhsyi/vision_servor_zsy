@@ -1,2 +1,0 @@
-v_s
--G CodeBlocks - Unix Makefiles -DCMAKE_BUILD_TYPE=Debug -DCATKIN_DEVEL_PREFIX=/home/zhsyi/vision_servo_zsy/devel -DCMAKE_INSTALL_PREFIX=/home/zhsyi/vision_servo_zsy/install
